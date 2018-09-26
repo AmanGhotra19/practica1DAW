@@ -3,6 +3,7 @@ int numero1 = 0;
 int numero2 = 0;
 
 
+
 System.out.println("ENter the first number:");
 numero1 = reader.nextInt();
 
